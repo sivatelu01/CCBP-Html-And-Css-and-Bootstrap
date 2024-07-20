@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-containerfp {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    height: 100vh;
+    background-size: cover;
+    width: 40vw;
+}
+
+.bg-container01fp {
+    background-color: #ffffff;
+    padding: 15px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.main-headingfp {
+    font-size: 30px;
+    color: #5752ab;
+    font-family: Bree Serif;
+    margin: 8px;
+}
+
+.paragraphfp {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.button01fp {
+    color: #171f46;
+    font-size: 13px;
+    padding: 1px;
+    border-radius: 7px;
+    height: 35px;
+    width: 120px;
+    background-color: #ffffff;
+    border-width: 1px;
+    margin: 20px;
+}
+
+.button02fp {
+    background-color: #5752ab;
+    color: #d7dfe9;
+    margin: 25px;
+    border-width: 0px;
+}

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.overall-bg-container-footer {
+    background-color: #19232d;
+}
+
+.main-image-footer {
+    height: 40px;
+    width: 60px;
+}
+
+.icon-size-footer {
+    font-size: 25px;
+    color: #5a7184;
+}
+
+.google-icon-footer {
+    height: 45px;
+    width: 45px;
+    background-color: #202b36;
+    border-radius: 40px;
+    padding-right: 20px;
+    padding-left: 12px;
+    padding-bottom: 8px;
+    padding-top: 12px;
+}
+
+.main-heading-footer {
+    color: #5a7184;
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.main-heading01-footer {
+    color: #5a7184;
+    font-size: 23px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.line-footer {
+    border-color: #5a7184;
+}
+
+.main-heading03-footer {
+    color: #959ead;
+    font-size: 20px;
+    font-family: Roboto;
+}

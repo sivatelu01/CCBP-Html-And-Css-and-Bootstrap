@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.overall-bg-container1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.navitem01 {
+    font-family: Roboto !important;
+    font-weight: bold !important;
+    color: black !important;
+}
+
+
+.image-navbar {
+    height: 35px;
+    width: 60px;
+}
+
+.main-heading {
+    font-size: 35px;
+    font-family: Roboto;
+    color: white;
+    font-weight: bold;
+}
+
+.button {
+    height: 45px;
+    width: 120px;
+    color: white;
+    background-color: #1a2137;
+    border-width: 0px;
+    border-radius: 6px;
+}

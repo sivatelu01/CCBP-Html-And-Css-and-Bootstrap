@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.overall-bg {
+    border-color: #0967d219;
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 5px;
+    padding: 10px;
+    width: 50vw;
+}
+
+.top-box {
+    background-color: white;
+    margin: 8px;
+    border-radius: 20px;
+}
+
+.top-box-heading {
+    font-size: 20px;
+    padding: 2px;
+    font-weight: 200;
+    font-family: Roboto;
+}
+
+.top-box-button {
+    height: 30px;
+    width: 100px;
+    margin: 2px;
+    font-size:12px;
+    border-radius: 8px;
+    font-family: Roboto;
+}
+
+.second-box {
+    background-color: #0967d219;
+    border-radius: 10px;
+    margin: 6px;
+    padding: 6px;
+}
+.second-box-style{
+    padding: 4px;
+}
+.second-box-heading {
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+.second-box-paragraph {
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.symtoms {
+    font-size: 20px;
+    font-family: Roboto;
+    margin: 8px;
+    font-weight: 500;
+}
+
+.health01 {
+    background-color: #3ebd93;
+    height: 80px;
+    width: 80px;
+    padding: 8px;
+    margin: 20px;
+    border-radius: 12px;
+}
+
+.cough {
+    font-size: 10px;
+    font-family: Roboto;
+    color: white;
+    padding: 5px;
+}
+
+.bottam {
+    background-color: #e12d3919;
+    border-radius: 20px;
+    margin: 8px;
+    padding: 10px;
+    font-weight: 500;
+}
+
+.bottom-heading {
+    font-size: 15px;
+    padding: 2px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.bottom-paragraph {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #707070;
+}
+
+.bottom-button {
+    background-color: #0967d2;
+    border-radius: 12px;
+    margin: 8px;
+    padding: 10px;
+    border-width: 0px;
+    color: white;
+    font-size: 10px;
+    width: 100px;
+}
+
+.button-center {
+    text-align: start;
+}
+
+.bg-color01 {
+    background-color: #e668a7;
+}
+
+.bg-color02 {
+    background-color: #a368fc;
+}
+
+.image {
+    height: 70px;
+    width: 70px;
+}

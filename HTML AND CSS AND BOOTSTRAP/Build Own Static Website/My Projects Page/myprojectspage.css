@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.overall-bg-containerf {
+    background-color: white;
+}
+
+.top-image01f {
+    height: 160px;
+    width: 220px;
+}
+
+.top-image-center01f {
+    text-align: center;
+    padding: 10px;
+}
+
+.top-image-main-headingf {
+    font-size: 25px;
+    color: #183b56;
+    font-family: Bree Serif;
+}
+
+.top-image-main-paragraphf {
+    font-size: 14px;
+    color: #183b56;
+    font-family: Bree Serif;
+}
+
+.bottom-imagef {
+    height: 90px;
+    width: 250px;
+    margin: 8px;
+}
+
+.bottom-image-center01f {
+    padding: 15px;
+}
+
+
+.bg-containerfp {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.bg-container01fp {
+    background-color: #ffffff;
+    padding: 15px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.main-headingfp {
+    font-size: 30px;
+    color: #5752ab;
+    font-family: Bree Serif;
+    margin: 8px;
+}
+
+.paragraphfp {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.button01fp {
+    color: #171f46;
+    font-size: 13px;
+    padding: 1px;
+    border-radius: 7px;
+    height: 35px;
+    width: 120px;
+    background-color: #ffffff;
+    border-width: 1px;
+    margin: 20px;
+}
+
+.button02fp {
+    background-color: #5752ab;
+    color: #d7dfe9;
+    margin: 25px;
+    border-width: 0px;
+}
+
+
+.bg-container01sp {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.bg-container02sp {
+    background-color: #ffffff;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.paragraph01sp {
+    color: black;
+    color: #7b8794;
+    font-family: Roboto;
+}
+
+.main-headingsp {
+    color: #323f4b;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.paragraphsp {
+    font-size: 13px;
+    font-family: Roboto;
+}
+
+.buttonsp {
+    color: #ffffff;
+    background-color: #323f4b;
+    border-width: 0px;
+    border-radius: 5px;
+    font-size: 10px;
+    width: 90px;
+    height: 38px;
+    font-size: 13px;
+}
+
+
+
+
+.diwali-top-section {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+  height: 30vh;
+  background-size: cover;
+}
+.diwali-top-section-heading {
+  color: white;
+  font-family: "Caveat";
+  font-size: 36px;
+  width: 200px;
+  padding: 20px;
+  text-align: center;
+}
+.diwali-bottom-section {
+  text-align:center;
+  background-color: #e6f6ff;
+  padding:15px;
+}
+.diwali-card-item {
+  text-align: center;
+  background-color: white;
+  width:140px;
+  border-radius: 9px;
+  padding: 16px;
+  margin: 15px;
+}
+.diwali-card-image {
+  height: 64px;
+  width: 64px;
+}
+.diwali-card-name {
+  color: #616e7c;
+  font-family: "Roboto";
+  font-size: 12px;
+  font-weight: normal;
+}
+.diwali-card-price {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+}
+
+
+
+
+
+
+
+
+.back-ground {
+    background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.card01 {
+    background-color: #f6c56e;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 15px;
+}
+
+.main-heading {
+    color: #323f4b;
+    font-family: Bree Serif;
+}
+
+.paragraph {
+    font-family: roboto;
+    color: #323f4b;
+    font-size: 15px;
+}
+
+.button {
+    height: 40px;
+    width: 100px;
+    font-size: 12px;
+    font-family: roboto;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.card02 {
+    padding-bottom: 20px;
+}
